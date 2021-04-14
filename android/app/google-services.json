@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "457849596697",
+    "project_id": "procrastination-app-d86b0",
+    "storage_bucket": "procrastination-app-d86b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457849596697:android:add012421947264af9f388",
+        "android_client_info": {
+          "package_name": "com.example.studily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457849596697-i2cfmfre41hrjsg0hrklhceg2b1jnvmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studily",
+            "certificate_hash": "8df87b1d091a137d45afc11655c83ebef475744b"
+          }
+        },
+        {
+          "client_id": "457849596697-6cm2eq5r3ipjg6e8nf98p1gqcmu54gqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZKnKJHi5x9qPUVKpuqkyvSgg02XzDqns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457849596697-6cm2eq5r3ipjg6e8nf98p1gqcmu54gqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
